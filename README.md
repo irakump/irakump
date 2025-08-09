@@ -28,5 +28,4 @@ Currently Learning 📚
 - Improving my backend development skills through hands-on projects like this
 
 <br>
-<br>
-✨ Feel free to check out my pinned repos below.
+✨ **Feel free to check out my pinned repos below.**
