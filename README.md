@@ -1,6 +1,7 @@
 # Hello World! 🚀
 
 ## About me 💫
+--------------
 I'm a 2nd-year Software Development student in Metropolia University of Applied Sciences, 
 and I’m also starting my 1st year studying Computer Science at the University of Helsinki.
 
