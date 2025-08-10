@@ -10,8 +10,8 @@ When I'm not coding, I enjoy playing floorball, hitting the gym, and getting los
 Skills ⚙️
 ------------
 
-- Python 🐍 (Object-Oriented Programming)
-- MicroPython 🕹️ (Raspberry Pi)  
+- Python 🐍
+- MicroPython 🕹️  
 - JavaScript ✨  
 - HTML & CSS 🎨
 - SQL 🗄️
