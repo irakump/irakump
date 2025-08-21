@@ -22,8 +22,9 @@ Skills ⚙️
 Currently Learning 📚
 ------------------------
 
-- Strengthening Python skills with object-oriented programming  
-- Expanding knowledge of SQL for database design and management  
+- Java with a focus on object-oriented programming
+- Strengthening Python skills through OOP
+- Expanding SQL skills for database design and management  
 - Building on my experience with user interface development   
 - Improving backend development expertise through hands-on practice 
 
