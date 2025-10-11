@@ -11,7 +11,8 @@ Skills ⚙️
 ------------
 
 - Python 🐍
-- MicroPython 🕹️  
+- Java ☕
+- MicroPython 🕹️
 - JavaScript ✨  
 - HTML & CSS 🎨
 - SQL 🗄️
@@ -23,7 +24,7 @@ Currently Learning 📚
 ------------------------
 
 - Java with a focus on object-oriented programming
-- Strengthening Python skills through OOP
+- Strengthening Python and Java skills through OOP
 - Expanding SQL skills for database design and management  
 - Building on my experience with user interface development   
 - Improving backend development expertise through hands-on practice 
