@@ -30,7 +30,7 @@ Skills ⚙️
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) \
 ![Trello](https://img.shields.io/badge/Trello-026AA7?style=flat&logo=trello&logoColor=white)
 
-Building my skills 📚
+Currently learning 📚
 ------------------------
 - Python & Java — working on small OOP projects
 - SQL — designing and managing databases
