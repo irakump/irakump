@@ -40,7 +40,7 @@ Currently learning 📚
 ------------------------
 - Python & Java — working on small OOP projects (using MVC model in Java)
 - SQL — designing and managing databases
-- UI development — building interfaces with JavaFX, React and HTML/CSS
+- UI development — building interfaces with JavaFX, React and Tailwind CSS
 
 
 <br>
