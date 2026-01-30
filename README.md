@@ -3,7 +3,7 @@ Hello World! 🚀
 
 About me 💫
 --------------
-I'm a 2nd-year Software Development student in Metropolia University of Applied Sciences, and also studying Computer Science at the University of Helsinki. I'm interested in full-stack development and machine learning, and I enjoy turning ideas into real projects.
+I'm a Software Development student in Metropolia University of Applied Sciences, and also studying Computer Science at the University of Helsinki. I'm interested in full-stack development and machine learning, and I enjoy turning ideas into real projects.
 
 When I'm not coding, I like playing floorball, hitting the gym, and getting lost in fantasy books.
 
