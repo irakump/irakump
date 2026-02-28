@@ -38,10 +38,9 @@ Skills ⚙️
 
 Currently learning 📚
 ------------------------
-- Python & Java — working on small OOP projects (using MVC model in Java)
+- Web development — building personal portfolio using React, JavaScript and Tailwind CSS
+- Java — working on small OOP projects (using MVC model)
 - SQL — designing and managing databases
-- UI development — building interfaces with JavaFX, React and Tailwind CSS
-
 
 <br>
 📌 Feel free to check out my pinned school projects below.
