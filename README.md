@@ -3,9 +3,11 @@ Hello World! 🚀
 
 About me 💫
 --------------
-I'm a Software Development student in Metropolia University of Applied Sciences, and also studying Computer Science at the University of Helsinki. I'm interested in full-stack development, accessibility, and machine learning, and I enjoy turning ideas into real projects.
+I'm a Software Development student in Metropolia University of Applied Sciences, and also studying Computer Science at the University of Helsinki.   
 
-When I'm not coding, I like playing floorball, hitting the gym, and getting lost in fantasy books.
+My greatest strengths are in full-stack development, with **Java, Spring Boot, REST APIs, SQL, React, and Tailwind CSS**. I'm interested in accessibility, health technology and machine learning, and I enjoy turning ideas into real projects.
+
+When I'm not coding, I'm either playing floorball, hitting the gym, or getting lost in fantasy books.
 
 Skills ⚙️
 ------------
