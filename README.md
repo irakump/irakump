@@ -3,7 +3,7 @@ Hello World! 🚀
 
 About me 💫
 --------------
-Software engineering student at Metropolia University of Applied Sciences, majoring in Software Development. Also enrolled in Computer Science at the University of Helsinki.   
+I'm a Software Engineering student at Metropolia University of Applied Sciences, majoring in Software Development. I'm also enrolled in Computer Science at the University of Helsinki.   
 
 My greatest strengths are in full-stack development, particularly **Java, Spring Boot, REST APIs, SQL, React, and Tailwind CSS**. I'm also interested in machine learning, accessibility, and health technology. I enjoy turning ideas into real projects.
 
